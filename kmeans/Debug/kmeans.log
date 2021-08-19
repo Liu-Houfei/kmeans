@@ -1,0 +1,7 @@
+﻿  kmeans.cpp
+f:\kmeans\代码\kmeans\kmeans\kmeans.cpp(13): warning C4005: “DBL_MAX”: 宏重定义
+  d:\windows kits\10\include\10.0.17763.0\ucrt\float.h(72): note: 参见“DBL_MAX”的前一个定义
+f:\kmeans\代码\kmeans\kmeans\kmeans.cpp(15): warning C4005: “DBL_MIN”: 宏重定义
+  d:\windows kits\10\include\10.0.17763.0\ucrt\float.h(75): note: 参见“DBL_MIN”的前一个定义
+f:\kmeans\代码\kmeans\kmeans\kmeans.cpp(60): warning C4326: “main”的返回类型应为“int”而非“void”
+  kmeans.vcxproj -> F:\kmeans\代码\kmeans\Debug\kmeans.exe
